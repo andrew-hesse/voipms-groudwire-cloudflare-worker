@@ -1,5 +1,7 @@
 # Balance checker for voip.ms at Acrobits Groundwire iOS app
 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/andrew-hesse/voipms-groudwire-cloudflare-worker)
+
 Cloudflare Worker to expose [voip.ms](voip.ms) API in [Groundwire format](https://doc.acrobits.net/api/client/balance_checker.html). Build it as a side project to practice knowledge in Github, Node, Express, etc. If you see any opportunity for optimization - pull requests are welcome.
 
 ```mermaid

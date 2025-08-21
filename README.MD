@@ -39,6 +39,8 @@ Set token for authentication with the Cloudflare for extra protection (required)
 
 In the end you should have `CURRENCY`, `VOIP_USERNAME`, `VOIP_PASSWORD` and `TOKEN` variables in your Cloudflare Worker.
 
+You can optionally set `DEBUG` to `true` to enable debug logging.
+
 ## Groundwire iOS App
 
 Configure in Groundwire settings
@@ -49,4 +51,4 @@ Configure in Groundwire settings
 
 # Groundwire screenshot
 
-![screenshot](/pictures/groundwire.PNG)
+![screenshot](/pictures/groundwire.jpg)
